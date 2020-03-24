@@ -5,4 +5,4 @@ Data analysis is contained in the file `NBA_Injuries.ipynb`, and the data itself
 
 ## Presentation of Results
 
-I blogged about what I found at (https://medium.com/@ajenkneary/injuries-and-rest-in-the-nba-2c39a8bd261c)[my Medium page].
+I blogged about what I found on (my Medium page)[https://medium.com/@ajenkneary/injuries-and-rest-in-the-nba-2c39a8bd261c].
