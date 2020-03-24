@@ -1,4 +1,8 @@
 # NBA Injuries
-This notebook contains NBA data on rest and injuries from 2010-2018 in a .csv file. 
+This repository loads and analyzes daily NBA injury reports to discover and graph patterns in the data over time, between players, and between teams.
 
-It also contains my analysis of that data in a Jupyter notebook.
+Data analysis is contained in the file `NBA_Injuries.ipynb`, and the data itself is in the file 
+
+## Presentation of Results
+
+I blogged about what I found at (https://medium.com/@ajenkneary/injuries-and-rest-in-the-nba-2c39a8bd261c)[my Medium page].
