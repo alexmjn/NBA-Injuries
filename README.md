@@ -1,8 +1,8 @@
 # NBA Injuries
-This repository loads and analyzes daily NBA injury reports to discover and graph patterns in the data over time, between players, and between teams.
+This repository loads and analyzes daily NBA injury reports to discover and graph patterns in the data over time, between players, and between teams. It showcases performing and communicating a thorough exploratory data analysis.
 
-Data analysis is contained in the file `NBA_Injuries.ipynb`, and the data itself is in the file 
+Heavily annotated data analysis is contained in the file `NBA_Injuries.ipynb`, and the data itself is sourced from [Kaggle](https://www.kaggle.com/ghopkins/nba-injuries-2010-2018).
 
 ## Presentation of Results
 
-I blogged about what I found on [https://medium.com/@ajenkneary/injuries-and-rest-in-the-nba-2c39a8bd261c](my Medium page).
+An overview of my results can be found on [Medium](https://medium.com/@ajenkneary/injuries-and-rest-in-the-nba-2c39a8bd261c).
